@@ -1,7 +1,7 @@
 # PhoneSploit
 Remote Android Management Tool Via ADB
 
-# Made By Metachar/Zuccs
+# Made By Metachar/Zucccs
 
 # Steps To Install In Windows
 ```
